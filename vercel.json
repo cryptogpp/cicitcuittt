@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/ancuar.lua",
+      "destination": "/api/checker.js"
+    }
+  ]
+}
